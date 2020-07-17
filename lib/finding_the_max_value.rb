@@ -10,3 +10,5 @@ def find_max_value(array)
     return max
   end
 end
+
+find_max_value([1,2,3])
