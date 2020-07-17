@@ -11,4 +11,4 @@ def find_max_value(array)
   end
 end
 
-find_max_value([1,2,3])
+puts find_max_value([1,2,3])
